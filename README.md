@@ -24,7 +24,7 @@ When reviewing your submission, we will assess the following criteria:
 1. Backend Integration: Evaluate how well you integrate the app with Firebase services for authentication and database operations.
 2. User Experience: Assess the app's usability, responsiveness, and user interactions.
 3. UI/UX Design: Assess the app's overall look and feel, including the quality of layouts and basic styling.
-4. Code Quality: Review the codebase for cleanliness, modularity, and adherence to best practices.
+4. Code Quality: Review the codebase for cleanliness, modularity, and respect to best practices.
 5. Error Handling: Evaluate how well you handle basic error scenarios and provide appropriate feedback to users.
 
 ## Submission
