@@ -39,7 +39,6 @@ Please provide the following:
 
 Please complete the task and submit your solution within 2-3 days.
 
-Good luck with the task, and we look forward to reviewing your submission!
 
 # Flutter Developer Task 2 (Habit Tracker App)
 
