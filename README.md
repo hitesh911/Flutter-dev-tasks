@@ -89,3 +89,40 @@ Please provide the following:
 ## Deadline
 
 Please complete the task and submit your solution within 2-3 days.
+
+# Python Developer Task 1 (Python API for File Data Extraction, Database Storage, and IoT Integration)
+
+## Requirements
+1. Develop a Python API that fetches data from files, specifically CSV files.
+2. Implement functionality to extract and process data from the CSV files.
+3. Store the extracted data in a database for future use.
+4. Utilize advanced Python concepts and best practices for efficient and maintainable code.
+5. Demonstrate knowledge of networking concepts to handle API requests and responses effectively.
+6. Showcase how Python can be integrated with IoT gateway devices.  (Package : paho-mqtt)
+
+## Guidelines
+1. Choose a web framework of your choice (e.g., Flask, Django) to build the Python API.
+2. Design and implement API endpoints to handle file uploads, data extraction, and database storage.
+3. Use appropriate libraries or modules to parse and manipulate CSV data.
+4. Select a suitable database system (e.g., MySQL, PostgreSQL,MongoDB) to store the extracted data.
+5. Implement secure and efficient networking techniques for API communication and end point should be secured with encreptions or auth tokens.
+6. Provide documentation or examples showcasing how Python can be integrated with IoT gateway devices, such as establishing communication, sending/receiving data, or controlling devices.
+
+## Evaluation Criteria
+1. File Data Extraction: Demonstrate the ability to accurately extract and process data from CSV files.
+2. Database Storage: Showcase your skills in designing and implementing the storage of extracted data in a database.
+3. Code Quality: Present a codebase that adheres to best practices, readability, maintainability, and efficiency.
+4. Networking Concepts: Highlight your understanding and implementation of networking concepts for API communication.
+5. IoT Integration: Provide documentation or examples that demonstrate your knowledge of Python integration with IoT gateway devices.
+
+## Submission
+
+Please provide the following:
+
+1. A link to the Git repository containing source code of API.
+2. Instructions on how to run the app locally, including any necessary setup or configuration steps.
+3. Any additional notes or explanations about your solution.
+
+## Deadline
+
+Please complete the task and submit your solution within 1-3 days.
