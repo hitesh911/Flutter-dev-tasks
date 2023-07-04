@@ -4,34 +4,28 @@
 
 Build a Social Media App with the following features:
 
-1. User Registration and Authentication: Implement a secure user registration and authentication system using Firebase Authentication. Users should be able to sign up and log in using email or social media accounts (Google, Facebook, etc.).
-2. User Profiles: Allow users to create and customize their profiles, including profile pictures, bio, and other relevant information.
-3. Posts and Feeds: Users should be able to create, edit, and delete posts containing text, images, or videos. Implement a feed where users can view posts from other users.
-4. Real-time Messaging: Implement a real-time messaging system within the app, allowing users to send direct messages to each other.
-5. Push Notifications: Implement push notifications to notify users about new messages, likes, comments, or any other relevant activities.
-6. Search and Discovery: Add a search functionality that allows users to find and follow other users based on their interests or usernames.
-7. UI/UX: Create a visually stunning and responsive user interface, ensuring smooth navigation and intuitive interactions.
+1. User Registration and Authentication: Implement a user registration and authentication system using Firebase Authentication. Users should be able to sign up and log in using email or social media accounts (Google, Facebook, etc.).
+2. User Profiles: Allow users to create and customize their profiles, including profile pictures and basic information.
+3. Posts and Feeds: Users should be able to create, edit, and delete text-based posts. Implement a feed where users can view their own posts.
+4. UI/UX: Create a visually appealing and responsive user interface, ensuring smooth navigation and intuitive interactions.
 
 ## Guidelines
 
-1. Use Firebase Firestore to store and retrieve user data, posts, and messages.
-2. Utilize Firebase Cloud Storage for storing media files like profile pictures and post images/videos.
+1. Use Firebase Firestore to store and retrieve user data and posts.
+2. Utilize Firebase Authentication for user registration and authentication.
 3. Implement appropriate security rules in Firebase to ensure data privacy and security.
-4. Consider using Flutter's provider or bloc pattern for state management.
-5. Handle edge cases, such as network connectivity issues and data synchronization conflicts.
+4. Use Flutter's state management solution (e.g., provider, Riverpod) to manage app state.
+5. Handle basic error scenarios, such as network connectivity issues and form validation.
 
 ## Evaluation Criteria
 
 When reviewing your submission, we will assess the following criteria:
 
-1. Backend Integration: Demonstrate your ability to integrate the app with Firebase services for authentication, database, and cloud storage effectively.
-2. User Experience: Showcase a user-friendly and intuitive app with smooth navigation, responsive design, and seamless interactions.
-3. Real-time Features: Implement real-time messaging and push notifications to provide a dynamic and interactive user experience.
-4. UI/UX Design: Create a visually appealing and aesthetically pleasing app with attention to detail, quality animations, and smooth transitions.
-5. Code Quality: Showcase clean, well-structured, and maintainable code that follows Flutter best practices and demonstrates good software engineering principles.
-6. Error Handling: Demonstrate robust error handling and graceful degradation, ensuring a smooth user experience even in exceptional cases or when encountering errors.
-7. Creativity: Exhibit originality and innovation in your app's features, user interface, and overall design to stand out from the crowd.
-
+1. Backend Integration: Evaluate how well you integrate the app with Firebase services for authentication and database operations.
+2. User Experience: Assess the app's usability, responsiveness, and user interactions.
+3. UI/UX Design: Assess the app's overall look and feel, including the quality of layouts and basic styling.
+4. Code Quality: Review the codebase for cleanliness, modularity, and adherence to best practices.
+5. Error Handling: Evaluate how well you handle basic error scenarios and provide appropriate feedback to users.
 
 ## Submission
 
@@ -43,7 +37,9 @@ Please provide the following:
 
 ## Deadline
 
-Please complete the task and submit your solution with in 1-2 weak.
+Please complete the task and submit your solution within 2-3 days.
+
+Good luck with the task, and we look forward to reviewing your submission!
 
 # Flutter Developer Task 2 (Habit Tracker App)
 
