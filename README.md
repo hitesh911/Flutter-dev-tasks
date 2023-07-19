@@ -85,6 +85,46 @@ Please provide the following:
 
 Please complete the task and submit your solution within 2-3 days.
 
+# Flutter Developer Task (2-Hour Challenge)
+
+## Task Description
+
+Build a simple To-Do List app with the following features:
+
+1. User Interface: Create a visually appealing user interface for the To-Do List app.
+2. Add Tasks: Allow users to add new tasks to the list.
+3. Complete Tasks: Implement the ability to mark tasks as completed.
+4. Delete Tasks: Enable users to delete tasks from the list.
+5. Persistence: Use local storage (e.g., SQLite, shared preferences) to persist the task data.
+
+## Guidelines
+
+1. Use Flutter to build the app.
+2. Utilize a state management solution (e.g., provider, Riverpod) to manage app state.
+3. Implement appropriate error handling for basic scenarios (e.g., empty task, network connectivity).
+4. Focus on simplicity and functionality rather than complex features.
+
+## Evaluation Criteria
+
+When reviewing your submission, we will assess the following criteria:
+
+1. Functionality: Verify that the app meets the requirements and performs the expected tasks.
+2. User Interface: Assess the overall look and feel of the app, including layout and basic styling.
+3. Code Quality: Review the codebase for cleanliness, organization, and adherence to best practices.
+4. Error Handling: Evaluate how well you handle basic error scenarios and provide appropriate feedback to users.
+
+## Submission
+
+Please provide the following:
+
+1. A link to the Git repository containing the Flutter app's source code.
+2. Instructions on how to run the app locally, including any necessary setup or configuration steps.
+3. Any additional notes or explanations about your solution.
+
+## Deadline
+
+Please complete the task and submit your solution within 2 hours.
+ 
 # Python Developer Task 1 (Python API for File Data Extraction, Database Storage, and IoT Integration)
 
 ## Requirements
