@@ -128,12 +128,13 @@ Please complete the task and submit your solution within 2 hours.
 # Python Developer Task 1 (Python API for File Data Extraction, Database Storage, and IoT Integration)
 
 ## Requirements
-1. Develop a Python API that fetches data from files, specifically CSV files.
-2. Implement functionality to extract and process data from the CSV files.
-3. Store the extracted data in a database for future use.
-4. Utilize advanced Python concepts and best practices for efficient and maintainable code.
-5. Demonstrate knowledge of networking concepts to handle API requests and responses effectively.
-6. Showcase how Python can be integrated with IoT gateway devices.  (Package : paho-mqtt)
+1. Develop a Python API that fetches data from files, specifically CSV files and store that in database.
+2. Make routes to do CRUD operation in data and follow all conventions of RESTfull Api.
+3. Create single route to check current csv or update that on server.
+4. Use any type of authentication to secure the api endpoints.
+5. Utilize advanced Python concepts and best practices for efficient and maintainable code.
+6. Demonstrate knowledge of networking concepts to handle API requests and responses effectively.
+7. Write script to integrated it with IoT gateway devices.  (Package : paho-mqtt)
 
 ## Guidelines
 1. Choose a web framework of your choice (e.g., Flask, Django) to build the Python API.
@@ -160,4 +161,4 @@ Please provide the following:
 
 ## Deadline
 
-Please complete the task and submit your solution within 1-3 days.
+Please complete the task and submit your solution within 1-3 hours.
