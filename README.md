@@ -129,7 +129,7 @@ Please complete the task and submit your solution within 2 hours.
 
 ## Requirements
 1. Develop a Python API that fetches data from files, specifically CSV files and store that in database for the first time.
-2. Make routes to do CRUD operation in data and follow all conventions of RESTfull Api.
+2. Make routes to do CRUD operation on data and follow all conventions of RESTfull Api.
 3. Create single route to check current csv or update that on server and when csv gets updated that data should also be updated on database.
 4. Use any type of authentication to secure the api endpoints.
 5. Utilize advanced Python concepts and best practices for efficient and maintainable code.
