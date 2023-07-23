@@ -124,7 +124,49 @@ Please provide the following:
 ## Deadline
 
 Please complete the task and submit your solution within 2 hours.
- 
+
+# Flutter Frontend Developer Task (Task 4)
+
+## Task Description
+
+Your task is to build the frontend for a Snacks Ordering App designed in Figma. The app is intended for a movie theater, allowing users to order snacks and beverages for a more convenient movie-watching experience. The Figma design includes 5 screens, including login/sign up, menu, order details, etc. The overall look and feel is visually appealing with bright colors and attractive gradients. The design has two layouts: light mode and dark mode.
+
+## Task Requirements
+
+1. UI Implementation: Create the user interface (UI) for the Snacks Ordering App based on the Figma design provided in the [Figma Link](https://www.figma.com/file/gqdMHdxqD8AZdrmBdyJXOh/SNACKS-ORDERING-APP-FOR-MOVIE-THEATER-(Community)?node-id=0%3A1&mode=dev).
+
+2. Navigation: Implement navigation between screens as shown in the Figma design. Ensure that the app's navigation flow is intuitive and smooth.
+
+3. User Authentication (Optional): Implement a basic login and sign-up functionality based on the design. You can use dummy data for authentication.
+
+4. Data Integration (Optional): If the design includes dynamic data, such as menu items and prices, consider using dummy data or a simple data source (e.g., JSON) to populate the app with content.
+
+5. Responsiveness: Ensure that the app's layout is responsive and adapts well to different screen sizes, including both phones and tablets.
+
+6. Dark Mode: Implement the dark mode layout option based on the Figma design. Allow users to switch between light and dark mode in the app.
+
+7. Code Quality: Write clean, maintainable, and well-organized Flutter code. Utilize appropriate widgets, layouts, and styles to achieve the desired UI.
+
+8. Error Handling: Implement basic error handling and provide user-friendly feedback for common scenarios, such as failed login attempts or order submission errors.
+
+## Submission
+
+1. Git Repository: Create a new Git repository for the Flutter project and commit your code.
+2. Readme: Create Readme.md file in you repo which instruct local setup to run your application.
+3. Final Deliverable: Once you have completed the task, share the repository link with us so we can review your work.
+
+## Note
+
+- Feel free to use any Flutter packages or plugins from pub.dev that can help you achieve the desired functionality efficiently.
+
+- The focus should be on accurately translating the Figma design into a working Flutter frontend with attention to detail and UI/UX fidelity.
+
+- While the backend functionality is not required for this task, you can use dummy data or placeholders as needed to demonstrate the app's features.
+
+## Deadline
+
+Please complete the task within 3-4 days.
+
 # Python Developer Task 1 (Python API for File Data Extraction, Database Storage, and IoT Integration)
 
 ## Requirements
