@@ -133,7 +133,7 @@ Your task is to build the frontend for a Snacks Ordering App designed in Figma. 
 
 ## Task Requirements
 
-1. UI Implementation: Create the user interface (UI) for the Snacks Ordering App based on the Figma design provided in the [Figma Link](https://www.figma.com/file/gqdMHdxqD8AZdrmBdyJXOh/SNACKS-ORDERING-APP-FOR-MOVIE-THEATER-(Community)?node-id=0%3A1&mode=dev) Open source Design by: Akshay Jain (Figma: https://www.figma.com/@akshay24).
+1. UI Implementation: Create the user interface (UI) for the Snacks Ordering App based on the Figma design provided in the open source [Figma file](https://www.figma.com/file/gqdMHdxqD8AZdrmBdyJXOh/SNACKS-ORDERING-APP-FOR-MOVIE-THEATER-(Community)?node-id=0%3A1&mode=dev) design by: [Akshay Jain](https://www.figma.com/@akshay24).
 
 2. Navigation: Implement navigation between screens as shown in the Figma design. Ensure that the app's navigation flow is intuitive and smooth.
 
